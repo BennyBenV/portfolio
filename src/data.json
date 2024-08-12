@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Projet 1",
+      "description": "Description du projet 1",
+      "technologies": ["React", "CSS"],
+      "image": "path/to/image1.jpg",
+      "link": "http://example.com/projet1"
+    },
+    {
+      "id": 2,
+      "title": "Projet 2",
+      "description": "Description du projet 2",
+      "technologies": ["JavaScript", "HTML"],
+      "image": "path/to/image2.jpg",
+      "link": "http://example.com/projet2"
+    }
+  ]
+  
