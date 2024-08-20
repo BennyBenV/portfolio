@@ -11,7 +11,6 @@ const About = () => {
         </div>
         <div className="about-content">
           <h2>À propos de moi</h2>
-          <h2>À propos de moi</h2>
           <p>
             Je suis un développeur web récemment diplômé de la formation "Développeur Web" sur OpenClassrooms. Passionné par le développement web, j'ai une affinité particulière pour le frontend.
           </p>
